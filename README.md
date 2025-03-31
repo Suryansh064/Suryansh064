@@ -1,27 +1,64 @@
 <h1 align="center">Hi 👋, I'm Suryansh Singh</h1>
-<h3 align="center">I'm Currently studying in NIT JAMSHEDPUR</h3>
-<img align="right"alt="coding"width="400"src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952hbe5t4ilp0k6idxpxbtd02tb9ft8a1aq5j39zy2q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryansh064&label=Profile%20views&color=0e75b6&style=flat" alt="suryansh064" /> </p>
+<h3 align="center">Currently studying at NIT Jamshedpur</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryansh064" alt="suryansh064" /></a> </p>
+<img align="center" alt="Coding from Home" width="100%" src="https://miro.medium.com/max/1400/1*gSR4SLYuvOLdEk2npC9m2w.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952hbe5t4ilp0k6idxpxbtd02tb9ft8a1aq5j39zy2q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
-- 📫 How to reach me **singh.suryansh064@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryansh064&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- ⚡ Fun fact **I'm Funny**
+- 😊 How to reach me: **singh.suryansh064@gmail.com**
+- ⚡ Fun fact: **I'm funny 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suryansh-singh-8932062aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suryansh-singh-8932062aa/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100015071085218&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suryanshsingh" height="30" width="40" /></a>
-<a href="https://instagram.com/singh_suryans_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryansh_82" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/singh_suryansh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singh_suryansh01" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/suryansh-singh-8932062aa/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100015071085218" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/singh_suryans_h" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/singh_suryansh01" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="40" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/singhsury1rds/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksForGeeks" height="40" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Suryansh064/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> 
+  </a>
+</p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=suryansh064" alt="GitHub Trophies" />
+  </a> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryansh064&show_icons=true&locale=en&layout=compact" alt="suryansh064" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryansh064&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryansh064&show_icons=true&locale=en" alt="suryansh064" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryansh064&show_icons=true&locale=en" alt="GitHub Stats" /></p>
