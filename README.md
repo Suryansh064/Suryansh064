@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryansh064&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 😊 Reach me at: **suryanshsingh.me**
+- 😊 Reach me at: [**suryanshsingh.me**](https://suryanshsingh.me)
 - ⚡ Fun fact: ** I don’t just squash bugs — I roast them with humor**
 - 😊 Goal: **To turn coffee into code and ideas into reality — daily.**
 
