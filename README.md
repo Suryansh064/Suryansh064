@@ -44,6 +44,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40" style="border: none;outline: none;" /> 
   </a>
+   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40" style="border: none;outline: none;" /> 
   </a>
@@ -61,6 +64,40 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40" style="border: none;outline: none;" />
+  </a>
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" width="40" height="40" style="border: none;outline: none;" />
+  </a>
+  <!-- MongoDB Atlas -->
+  <a href="https://www.mongodb.com/atlas" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB Atlas" width="40" height="40" style="border: none;outline: none;" />
+  </a>
+  
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="55" height="40" />
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="border: none;outline: none;" />
+  </a>
+  <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/saadeghi/daisyui/main/src/docs/static/images/daisyui-logo.svg" alt="DaisyUI" width="40" height="40" />
+  </a>
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40" style="border: none;outline: none;" />
+  </a>
+
+  <!-- IntelliJ IDEA -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40" style="border: none;outline: none;" />
+  </a>
+
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="border: none;outline: none;" />
   </a>
 </p>
 
