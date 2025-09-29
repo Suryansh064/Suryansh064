@@ -74,17 +74,12 @@
   </a>
   
 
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="55" height="40" />
-  </a>
+
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="border: none;outline: none;" />
   </a>
-  <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/saadeghi/daisyui/main/src/docs/static/images/daisyui-logo.svg" alt="DaisyUI" width="40" height="40" />
-  </a>
+  
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40" style="border: none;outline: none;" />
